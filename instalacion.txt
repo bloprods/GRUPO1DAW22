@@ -13,5 +13,5 @@ A continuación crearemos una carpeta nueva para el proyecto "alimentos2022" den
 
 git init
 git config --global http.sslVerify false
-git add origin https://github.com/bloprods/GRUPO1DAW22.git
+git remote add origin https://github.com/bloprods/GRUPO1DAW22.git
 git pull origin main
