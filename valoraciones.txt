@@ -1,0 +1,28 @@
+-- BRUNO --
+
+Buen trabajo en equipo, me ha parecido buena la coordinación entre los integrantes 
+y sobre todo la profesionalidad de los mismos. 
+
+Cuando se implementa correctamente, la colaboración en el trabajo puede tener 
+un impacto positivo en el equipo o la organización. Con la colaboración se puede 
+mejorar la eficiencia, la innovación y las relaciones dentro del mismo.
+
+-- JAVIER --
+
+Es un trabajo muy útil ya que es algo que nos encontraremos en el mundo laboral 
+de nuestro sector como desarrollador/programador haciendo uso de un software como GitHub que 
+facilita el manejo y la integración que se hace en un equipo de desarrolladores.
+
+-- ÁNGEL --
+
+Realizar este trabajo me ha hecho abrir los ojos y comprender la necesidad de usar plataformas como Git y GitHub.
+
+Antes de realizar mi parte no me había puesto realmente con ello pero una vez lo he hecho he 
+sido capaz de ver un poco de las posibilidades que ofrecen estas plataformas y la verdad es 
+que ahora las veo muy útiles, sobretodo de cara a trabajar en un equipo con varios desarrolladores 
+realizando tareas de forma simultánea y ordenada con control de quién hace cada qué y de cuando lo hacen, 
+eso considero que es un factor muy importante de cara a proyectos futuros donde algún mínimo cambio pueda 
+afectar al rendimiento del programa y sea necesario volver a una versión estable del mismo para continuar con el desarrollo.
+
+En general, considero la realización de este trabajo uno muy útil para el buen entendimiento de ambas 
+plataformas y prácticar el uso de ellas.
