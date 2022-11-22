@@ -1,0 +1,13 @@
+Para empezar he creado una carpeta llamada "alimentos2020" a la cual le he hecho un
+"git init" para usarla como nuevo repositorio de Git y me he cambiado a la rama main
+mediante el comando "git branch -M main". Una vez hecho esto he ejecutado el comando
+"git pull https://github.com/bloprods/GRUPO1DAW22.git" para importar los archivos del
+repositorio subidos a Github previamente por el integrante 1 (Bruno) y he hecho un "git add"
+de mis tres ficheros: web/index.php, app/Config.php y app/Controller.php.
+
+Tras eso he tenido que realizar unos cambios manualmente en el fichero "Config.php" con los datos
+de la conexión de la BD proporcionados por el integrante 2 (Javier) y tras hacerlo he hecho un commit
+para salvar los cambios localmente. Por último he establecido conexión con el repositorio de Github 
+mediante el comando "git remote add origin https://github.com/bloprods/GRUPO1DAW22.git" y finalmente
+he hecho un push "git push -u origin main" para subir mis cambios al repositorio.
+
