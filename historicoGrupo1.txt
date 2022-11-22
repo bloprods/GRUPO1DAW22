@@ -11,3 +11,4 @@ para salvar los cambios localmente. Por último he establecido conexión con el 
 mediante el comando "git remote add origin https://github.com/bloprods/GRUPO1DAW22.git" y finalmente
 he hecho un push "git push -u origin main" para subir mis cambios al repositorio.
 
+URL WEB: http://www.grupo1trabajogit.com.mialias.net/alimentos2022/web/index.php
