@@ -1,0 +1,17 @@
+Descargamos la carpeta de "alimentos2020" y nos situamos en "app/". Ahora abrimos GIT BASH e introducimos los siguientes comandos:
+
+git init
+git add Model.php
+git commit -m "Model.php añadido"
+git branch -M main
+git remote add origin https://github.com/bloprods/GRUPO1DAW22.git
+git push -u origin main
+
+
+Ahora nos dirigimos a nuestro hosting "CDMON" y activamos el servicio GIT para habilitar el uso de dicho servicio al conectarnos mediante SSH al servidor.
+A continuación crearemos una carpeta nueva para el proyecto "alimentos2022" dentro de la carpeta "web" y escribimos los siguientes comandos:
+
+git init
+git config --global http.sslVerify false
+git add origin https://github.com/bloprods/GRUPO1DAW22.git
+git pull origin main
